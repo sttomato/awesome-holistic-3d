@@ -95,7 +95,12 @@ LSUN Room Layout
 </div>
 
 <div align="center">Orange lines: predicted layout, Green lines: groundtruth layout</div>
+
 [SSLayout360](https://github.com/FlyreelAI/sslayout360)
+<div align="center">
+<img src=https://github.com/FlyreelAI/sslayout360/raw/master/assets/schematic.png>
+</div>
+
 [Raster-to-Vector](https://github.com/art-programmer/FloorplanTransformation)
 
 <div align="center">
